@@ -1,1 +1,1 @@
-fix resume training
+Add Weights & Biases Docs integrations page (#7199)
