@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
