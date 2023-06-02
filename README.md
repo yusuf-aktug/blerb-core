@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
