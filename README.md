@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Hold failed upload metrics and upload with next upload metrics (#8513)
