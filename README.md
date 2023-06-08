@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
