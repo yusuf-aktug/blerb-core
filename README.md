@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Hold failed upload metrics and upload with next upload metrics (#8513)
