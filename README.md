@@ -1,1 +1,1 @@
-add logs
+New test for labels and crops (#8861)
