@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Fix TypeError in check_cfg() (#9245)
