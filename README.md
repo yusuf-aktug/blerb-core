@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
