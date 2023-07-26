@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
