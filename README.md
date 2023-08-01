@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+More robust PNNX downloads (#8866)
