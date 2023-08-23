@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
