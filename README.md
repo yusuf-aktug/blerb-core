@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update format.yml to pull_request_target (#7460)
