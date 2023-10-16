@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+OBB: Fix plot_images (#7592)
