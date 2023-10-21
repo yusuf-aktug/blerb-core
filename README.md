@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
