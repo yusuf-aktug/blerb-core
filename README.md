@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
