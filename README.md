@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+fix for predicting with batch_size > 1 (#47)
