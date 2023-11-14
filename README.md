@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
