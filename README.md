@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
