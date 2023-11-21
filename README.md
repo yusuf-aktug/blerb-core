@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Resize angle, count, and stage on keypoint number change (#7598)
