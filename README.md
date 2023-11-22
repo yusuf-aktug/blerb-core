@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
