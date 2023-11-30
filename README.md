@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
