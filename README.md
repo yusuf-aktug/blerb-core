@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add quantization support to TensorFlow.js converter (#7008)
