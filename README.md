@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
