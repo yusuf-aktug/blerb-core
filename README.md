@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add PR Summary step to Ultralytics Actions (#7675)
