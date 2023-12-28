@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.0.229 add model.embed() method (#7098)
