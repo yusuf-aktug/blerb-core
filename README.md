@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
