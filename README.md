@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Docs partial mdformat improvements (#7378)
