@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
