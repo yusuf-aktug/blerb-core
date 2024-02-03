@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+ultralytics 8.0.231 use new pyproject.toml (#7185)
