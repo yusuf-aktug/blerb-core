@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+TensorRT FP16 export with dynamic=True (#7870)
