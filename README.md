@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Retry once for Docker CI failures (#8164)
