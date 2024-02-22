@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add PaddlePaddle Docs Integrations Page (#8858)
