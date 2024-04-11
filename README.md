@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Model typehints Docker fix (#8306)
