@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
