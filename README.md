@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
