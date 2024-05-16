@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Fix heatmaps width-height order bug (#7184)
