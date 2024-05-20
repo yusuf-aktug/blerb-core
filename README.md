@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Capitalize OBB acronym (#7383)
