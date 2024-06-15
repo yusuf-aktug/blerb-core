@@ -1,1 +1,1 @@
-example Google Colab
+Batch inference fixes (#8854)
