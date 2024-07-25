@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add HUB-SDK docs (#7775)
