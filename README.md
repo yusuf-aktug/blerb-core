@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
