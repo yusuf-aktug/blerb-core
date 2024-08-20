@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
