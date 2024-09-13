@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Explorer with LanceDB, Actions and Docs updates (#7487)
