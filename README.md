@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add TensorRT Docs Integrations Page (#7855)
