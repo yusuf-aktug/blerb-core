@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Fix xyxyxyxyn calculation, swap axis (#8249)
