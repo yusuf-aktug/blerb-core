@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
