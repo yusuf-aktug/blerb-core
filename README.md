@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
